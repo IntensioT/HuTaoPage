@@ -1,0 +1,140 @@
+[31-May-2023 21:55:35 Europe/Moscow] PHP Fatal error:  Создайте и настройте config.php на основе config.sample.php in /var/www/authentificationSystem/php-auth-demo-master/boot.php on line 16
+[31-May-2023 21:59:51 Europe/Moscow] PHP Fatal error:  Создайте и настройте config.php на основе config.sample.php in /var/www/authentificationSystem/php-auth-demo-master/boot.php on line 16
+[31-May-2023 22:01:37 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'mysql'@'localhost' (using password: YES) in /var/www/authentificationSystem/php-auth-demo-master/boot.php:20
+Stack trace:
+#0 /var/www/authentificationSystem/php-auth-demo-master/boot.php(20): PDO->__construct()
+#1 /var/www/authentificationSystem/php-auth-demo-master/do_register.php(5): pdo()
+#2 {main}
+  thrown in /var/www/authentificationSystem/php-auth-demo-master/boot.php on line 20
+[31-May-2023 22:02:45 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'php-authentication' in /var/www/authentificationSystem/php-auth-demo-master/boot.php:20
+Stack trace:
+#0 /var/www/authentificationSystem/php-auth-demo-master/boot.php(20): PDO->__construct()
+#1 /var/www/authentificationSystem/php-auth-demo-master/do_register.php(5): pdo()
+#2 {main}
+  thrown in /var/www/authentificationSystem/php-auth-demo-master/boot.php on line 20
+[31-May-2023 22:05:21 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'php-auth.users' doesn't exist in /var/www/authentificationSystem/php-auth-demo-master/do_register.php:6
+Stack trace:
+#0 /var/www/authentificationSystem/php-auth-demo-master/do_register.php(6): PDOStatement->execute()
+#1 {main}
+  thrown in /var/www/authentificationSystem/php-auth-demo-master/do_register.php on line 6
+[31-May-2023 22:07:06 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'php-auth' in /var/www/authentificationSystem/php-auth-demo-master/boot.php:20
+Stack trace:
+#0 /var/www/authentificationSystem/php-auth-demo-master/boot.php(20): PDO->__construct()
+#1 /var/www/authentificationSystem/php-auth-demo-master/do_register.php(5): pdo()
+#2 {main}
+  thrown in /var/www/authentificationSystem/php-auth-demo-master/boot.php on line 20
+[31-May-2023 22:07:48 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'php-auth-demo.users' doesn't exist in /var/www/authentificationSystem/php-auth-demo-master/do_register.php:6
+Stack trace:
+#0 /var/www/authentificationSystem/php-auth-demo-master/do_register.php(6): PDOStatement->execute()
+#1 {main}
+  thrown in /var/www/authentificationSystem/php-auth-demo-master/do_register.php on line 6
+[04-Jun-2023 13:24:37 Europe/Moscow] PHP Warning:  Undefined array key "username" in /var/www/html/Web/authentificationSystem/do_register.php on line 6
+[04-Jun-2023 13:24:37 Europe/Moscow] PHP Warning:  Undefined array key "username" in /var/www/html/Web/authentificationSystem/do_register.php on line 16
+[04-Jun-2023 13:24:37 Europe/Moscow] PHP Warning:  Undefined array key "password" in /var/www/html/Web/authentificationSystem/do_register.php on line 17
+[04-Jun-2023 13:24:37 Europe/Moscow] PHP Deprecated:  password_hash(): Passing null to parameter #1 ($password) of type string is deprecated in /var/www/html/Web/authentificationSystem/do_register.php on line 17
+[04-Jun-2023 13:24:37 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null in /var/www/html/Web/authentificationSystem/do_register.php:17
+Stack trace:
+#0 /var/www/html/Web/authentificationSystem/do_register.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /var/www/html/Web/authentificationSystem/do_register.php on line 17
+[04-Jun-2023 13:25:04 Europe/Moscow] PHP Warning:  Undefined array key "username" in /var/www/html/Web/authentificationSystem/do_register.php on line 6
+[04-Jun-2023 13:25:04 Europe/Moscow] PHP Warning:  Undefined array key "username" in /var/www/html/Web/authentificationSystem/do_register.php on line 16
+[04-Jun-2023 13:25:04 Europe/Moscow] PHP Warning:  Undefined array key "password" in /var/www/html/Web/authentificationSystem/do_register.php on line 17
+[04-Jun-2023 13:25:04 Europe/Moscow] PHP Deprecated:  password_hash(): Passing null to parameter #1 ($password) of type string is deprecated in /var/www/html/Web/authentificationSystem/do_register.php on line 17
+[04-Jun-2023 13:25:04 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null in /var/www/html/Web/authentificationSystem/do_register.php:17
+Stack trace:
+#0 /var/www/html/Web/authentificationSystem/do_register.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /var/www/html/Web/authentificationSystem/do_register.php on line 17
+[04-Jun-2023 13:25:12 Europe/Moscow] PHP Warning:  Undefined array key "username" in /var/www/html/Web/authentificationSystem/do_email.php on line 6
+[04-Jun-2023 13:25:12 Europe/Moscow] PHP Warning:  Undefined array key "username" in /var/www/html/Web/authentificationSystem/do_email.php on line 16
+[04-Jun-2023 13:25:12 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null in /var/www/html/Web/authentificationSystem/do_email.php:17
+Stack trace:
+#0 /var/www/html/Web/authentificationSystem/do_email.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /var/www/html/Web/authentificationSystem/do_email.php on line 17
+[04-Jun-2023 13:26:00 Europe/Moscow] PHP Warning:  Undefined array key "username" in /var/www/html/Web/authentificationSystem/do_email.php on line 6
+[04-Jun-2023 13:26:00 Europe/Moscow] PHP Warning:  Undefined array key "username" in /var/www/html/Web/authentificationSystem/do_email.php on line 16
+[04-Jun-2023 13:26:00 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null in /var/www/html/Web/authentificationSystem/do_email.php:17
+Stack trace:
+#0 /var/www/html/Web/authentificationSystem/do_email.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /var/www/html/Web/authentificationSystem/do_email.php on line 17
+[04-Jun-2023 13:26:09 Europe/Moscow] PHP Warning:  Undefined array key "username" in /var/www/html/Web/authentificationSystem/do_email.php on line 6
+[04-Jun-2023 13:26:09 Europe/Moscow] PHP Warning:  Undefined array key "username" in /var/www/html/Web/authentificationSystem/do_email.php on line 16
+[04-Jun-2023 13:26:09 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null in /var/www/html/Web/authentificationSystem/do_email.php:17
+Stack trace:
+#0 /var/www/html/Web/authentificationSystem/do_email.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /var/www/html/Web/authentificationSystem/do_email.php on line 17
+[04-Jun-2023 13:26:30 Europe/Moscow] PHP Warning:  Undefined array key "username" in /var/www/html/Web/authentificationSystem/do_email.php on line 6
+[04-Jun-2023 13:26:30 Europe/Moscow] PHP Warning:  Undefined array key "username" in /var/www/html/Web/authentificationSystem/do_email.php on line 16
+[04-Jun-2023 13:26:30 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null in /var/www/html/Web/authentificationSystem/do_email.php:17
+Stack trace:
+#0 /var/www/html/Web/authentificationSystem/do_email.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /var/www/html/Web/authentificationSystem/do_email.php on line 17
+[04-Jun-2023 13:28:24 Europe/Moscow] PHP Warning:  Undefined array key "username" in /var/www/html/Web/authentificationSystem/do_email.php on line 6
+[04-Jun-2023 13:28:24 Europe/Moscow] PHP Warning:  Undefined array key "username" in /var/www/html/Web/authentificationSystem/do_email.php on line 16
+[04-Jun-2023 13:28:24 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null in /var/www/html/Web/authentificationSystem/do_email.php:17
+Stack trace:
+#0 /var/www/html/Web/authentificationSystem/do_email.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /var/www/html/Web/authentificationSystem/do_email.php on line 17
+[04-Jun-2023 13:34:59 Europe/Moscow] PHP Warning:  Undefined variable $user in /var/www/html/Web/authentificationSystem/do_email.php on line 6
+[04-Jun-2023 13:34:59 Europe/Moscow] PHP Warning:  Undefined variable $user in /var/www/html/Web/authentificationSystem/do_email.php on line 16
+[04-Jun-2023 13:34:59 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null in /var/www/html/Web/authentificationSystem/do_email.php:17
+Stack trace:
+#0 /var/www/html/Web/authentificationSystem/do_email.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /var/www/html/Web/authentificationSystem/do_email.php on line 17
+[04-Jun-2023 13:36:27 Europe/Moscow] PHP Warning:  Array to string conversion in /var/www/html/Web/authentificationSystem/auth.php on line 49
+[04-Jun-2023 13:36:30 Europe/Moscow] PHP Warning:  Array to string conversion in /var/www/html/Web/authentificationSystem/auth.php on line 49
+[04-Jun-2023 13:36:33 Europe/Moscow] PHP Warning:  Undefined variable $user in /var/www/html/Web/authentificationSystem/do_email.php on line 6
+[04-Jun-2023 13:36:33 Europe/Moscow] PHP Warning:  Undefined variable $user in /var/www/html/Web/authentificationSystem/do_email.php on line 16
+[04-Jun-2023 13:36:33 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null in /var/www/html/Web/authentificationSystem/do_email.php:17
+Stack trace:
+#0 /var/www/html/Web/authentificationSystem/do_email.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /var/www/html/Web/authentificationSystem/do_email.php on line 17
+[04-Jun-2023 13:36:39 Europe/Moscow] PHP Warning:  Array to string conversion in /var/www/html/Web/authentificationSystem/auth.php on line 49
+[04-Jun-2023 13:38:13 Europe/Moscow] PHP Warning:  Array to string conversion in /var/www/html/Web/authentificationSystem/auth.php on line 49
+[04-Jun-2023 13:38:17 Europe/Moscow] PHP Warning:  Undefined variable $user in /var/www/html/Web/authentificationSystem/do_email.php on line 6
+[04-Jun-2023 13:38:17 Europe/Moscow] PHP Warning:  Undefined variable $user in /var/www/html/Web/authentificationSystem/do_email.php on line 16
+[04-Jun-2023 13:38:17 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null in /var/www/html/Web/authentificationSystem/do_email.php:17
+Stack trace:
+#0 /var/www/html/Web/authentificationSystem/do_email.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /var/www/html/Web/authentificationSystem/do_email.php on line 17
+[04-Jun-2023 13:38:35 Europe/Moscow] PHP Warning:  Array to string conversion in /var/www/html/Web/authentificationSystem/auth.php on line 49
+[04-Jun-2023 13:38:40 Europe/Moscow] PHP Warning:  Array to string conversion in /var/www/html/Web/authentificationSystem/auth.php on line 49
+[04-Jun-2023 13:38:43 Europe/Moscow] PHP Warning:  Undefined variable $username in /var/www/html/Web/authentificationSystem/do_email.php on line 6
+[04-Jun-2023 13:38:43 Europe/Moscow] PHP Warning:  Undefined variable $username in /var/www/html/Web/authentificationSystem/do_email.php on line 16
+[04-Jun-2023 13:38:43 Europe/Moscow] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null in /var/www/html/Web/authentificationSystem/do_email.php:17
+Stack trace:
+#0 /var/www/html/Web/authentificationSystem/do_email.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /var/www/html/Web/authentificationSystem/do_email.php on line 17
+[04-Jun-2023 13:40:41 Europe/Moscow] PHP Warning:  Array to string conversion in /var/www/html/Web/authentificationSystem/auth.php on line 49
+[04-Jun-2023 13:40:44 Europe/Moscow] PHP Warning:  Array to string conversion in /var/www/html/Web/authentificationSystem/auth.php on line 49
+[04-Jun-2023 13:40:46 Europe/Moscow] PHP Warning:  Array to string conversion in /var/www/html/Web/authentificationSystem/auth.php on line 49
+[04-Jun-2023 19:22:36 Europe/Moscow] PHP Warning:  Undefined array key "admin" in /var/www/html/Web/authentificationSystem/auth.php on line 43
+[04-Jun-2023 19:32:30 Europe/Moscow] PHP Warning:  Undefined variable $conn in /var/www/html/Web/authentificationSystem/auth.php on line 45
+[04-Jun-2023 19:32:30 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /var/www/html/Web/authentificationSystem/auth.php:45
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/Web/authentificationSystem/auth.php on line 45
+[04-Jun-2023 19:44:18 Europe/Moscow] PHP Warning:  Undefined variable $pdo in /var/www/html/Web/authentificationSystem/auth.php on line 46
+[04-Jun-2023 19:44:18 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /var/www/html/Web/authentificationSystem/auth.php:46
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/Web/authentificationSystem/auth.php on line 46
+[04-Jun-2023 19:48:27 Europe/Moscow] PHP Warning:  Undefined variable $pdo in /var/www/html/Web/authentificationSystem/auth.php on line 47
+[04-Jun-2023 19:48:27 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /var/www/html/Web/authentificationSystem/auth.php:47
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/Web/authentificationSystem/auth.php on line 47
+[07-Jun-2023 00:41:11 Europe/Moscow] PHP Warning:  Undefined variable $mail in /var/www/html/Web/sendAll.php on line 22
+[07-Jun-2023 00:41:11 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in /var/www/html/Web/sendAll.php on line 22
+[07-Jun-2023 00:42:01 Europe/Moscow] PHP Warning:  Undefined variable $mai in /var/www/html/Web/sendAll.php on line 22
+[07-Jun-2023 00:42:01 Europe/Moscow] PHP Warning:  foreach() argument must be of type array|object, null given in /var/www/html/Web/sendAll.php on line 22
