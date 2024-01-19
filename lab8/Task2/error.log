@@ -1,0 +1,83 @@
+[24-May-2023 23:21:54 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromjpeg() in /var/www/Labs/Lab8/Task2/thumb.php:16
+Stack trace:
+#0 /var/www/Labs/Lab8/Task2/thumb.php(37): thumb()
+#1 {main}
+  thrown in /var/www/Labs/Lab8/Task2/thumb.php on line 16
+[24-May-2023 23:22:04 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromjpeg() in /var/www/Labs/Lab8/Task2/thumb.php:16
+Stack trace:
+#0 /var/www/Labs/Lab8/Task2/thumb.php(37): thumb()
+#1 {main}
+  thrown in /var/www/Labs/Lab8/Task2/thumb.php on line 16
+[24-May-2023 23:24:03 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromjpeg() in /var/www/Labs/Lab8/Task2/thumb.php:16
+Stack trace:
+#0 /var/www/Labs/Lab8/Task2/thumb.php(37): thumb()
+#1 {main}
+  thrown in /var/www/Labs/Lab8/Task2/thumb.php on line 16
+[24-May-2023 23:24:04 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromjpeg() in /var/www/Labs/Lab8/Task2/thumb.php:16
+Stack trace:
+#0 /var/www/Labs/Lab8/Task2/thumb.php(37): thumb()
+#1 {main}
+  thrown in /var/www/Labs/Lab8/Task2/thumb.php on line 16
+[24-May-2023 23:24:51 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromjpeg() in /var/www/Labs/Lab8/Task2/thumb.php:16
+Stack trace:
+#0 /var/www/Labs/Lab8/Task2/thumb.php(37): thumb()
+#1 {main}
+  thrown in /var/www/Labs/Lab8/Task2/thumb.php on line 16
+[24-May-2023 23:26:18 Europe/Moscow] PHP Deprecated:  Implicit conversion from float 90.20979020979021 to int loses precision in /var/www/Labs/Lab8/Task2/thumb.php on line 27
+[24-May-2023 23:26:18 Europe/Moscow] PHP Deprecated:  Implicit conversion from float 90.20979020979021 to int loses precision in /var/www/Labs/Lab8/Task2/thumb.php on line 28
+[24-May-2023 23:29:20 Europe/Moscow] PHP Warning:  Undefined array key "y" in /var/www/Labs/Lab8/Task2/thumb.php on line 34
+[24-May-2023 23:29:20 Europe/Moscow] PHP Deprecated:  Implicit conversion from float 45.10489510489511 to int loses precision in /var/www/Labs/Lab8/Task2/thumb.php on line 27
+[24-May-2023 23:29:20 Europe/Moscow] PHP Deprecated:  Implicit conversion from float 45.10489510489511 to int loses precision in /var/www/Labs/Lab8/Task2/thumb.php on line 28
+[24-May-2023 23:29:29 Europe/Moscow] PHP Warning:  Undefined array key "y" in /var/www/Labs/Lab8/Task2/thumb.php on line 34
+[24-May-2023 23:29:29 Europe/Moscow] PHP Deprecated:  Implicit conversion from float 461.87412587412587 to int loses precision in /var/www/Labs/Lab8/Task2/thumb.php on line 27
+[24-May-2023 23:29:29 Europe/Moscow] PHP Deprecated:  Implicit conversion from float 461.87412587412587 to int loses precision in /var/www/Labs/Lab8/Task2/thumb.php on line 28
+[24-May-2023 23:31:30 Europe/Moscow] PHP Warning:  Undefined array key "y" in /var/www/Labs/Lab8/Task2/thumb.php on line 34
+[24-May-2023 23:31:30 Europe/Moscow] PHP Deprecated:  Implicit conversion from float 45.10489510489511 to int loses precision in /var/www/Labs/Lab8/Task2/thumb.php on line 27
+[24-May-2023 23:31:30 Europe/Moscow] PHP Deprecated:  Implicit conversion from float 45.10489510489511 to int loses precision in /var/www/Labs/Lab8/Task2/thumb.php on line 28
+[24-May-2023 23:31:37 Europe/Moscow] PHP Warning:  Undefined array key "y" in /var/www/Labs/Lab8/Task2/thumb.php on line 34
+[24-May-2023 23:31:37 Europe/Moscow] PHP Deprecated:  Implicit conversion from float 451.04895104895104 to int loses precision in /var/www/Labs/Lab8/Task2/thumb.php on line 27
+[24-May-2023 23:31:37 Europe/Moscow] PHP Deprecated:  Implicit conversion from float 451.04895104895104 to int loses precision in /var/www/Labs/Lab8/Task2/thumb.php on line 28
+[24-May-2023 23:31:44 Europe/Moscow] PHP Warning:  Undefined array key "y" in /var/www/Labs/Lab8/Task2/thumb.php on line 34
+[24-May-2023 23:31:44 Europe/Moscow] PHP Deprecated:  Implicit conversion from float 90.20979020979021 to int loses precision in /var/www/Labs/Lab8/Task2/thumb.php on line 27
+[24-May-2023 23:31:44 Europe/Moscow] PHP Deprecated:  Implicit conversion from float 90.20979020979021 to int loses precision in /var/www/Labs/Lab8/Task2/thumb.php on line 28
+[24-May-2023 23:31:53 Europe/Moscow] PHP Warning:  Undefined array key "y" in /var/www/Labs/Lab8/Task2/thumb.php on line 34
+[24-May-2023 23:31:53 Europe/Moscow] PHP Deprecated:  Implicit conversion from float 475.4055944055944 to int loses precision in /var/www/Labs/Lab8/Task2/thumb.php on line 27
+[24-May-2023 23:31:53 Europe/Moscow] PHP Deprecated:  Implicit conversion from float 475.4055944055944 to int loses precision in /var/www/Labs/Lab8/Task2/thumb.php on line 28
+[24-May-2023 23:32:21 Europe/Moscow] PHP Warning:  Undefined array key "y" in /var/www/Labs/Lab8/Task2/thumb.php on line 34
+[24-May-2023 23:32:32 Europe/Moscow] PHP Warning:  Undefined array key "y" in /var/www/Labs/Lab8/Task2/thumb.php on line 34
+[24-May-2023 23:32:32 Europe/Moscow] PHP Deprecated:  Implicit conversion from float 90.20979020979021 to int loses precision in /var/www/Labs/Lab8/Task2/thumb.php on line 27
+[24-May-2023 23:32:32 Europe/Moscow] PHP Deprecated:  Implicit conversion from float 90.20979020979021 to int loses precision in /var/www/Labs/Lab8/Task2/thumb.php on line 28
+[24-May-2023 23:32:37 Europe/Moscow] PHP Warning:  Undefined array key "y" in /var/www/Labs/Lab8/Task2/thumb.php on line 34
+[24-May-2023 23:32:37 Europe/Moscow] PHP Deprecated:  Implicit conversion from float 180.41958041958043 to int loses precision in /var/www/Labs/Lab8/Task2/thumb.php on line 27
+[24-May-2023 23:32:37 Europe/Moscow] PHP Deprecated:  Implicit conversion from float 180.41958041958043 to int loses precision in /var/www/Labs/Lab8/Task2/thumb.php on line 28
+[24-May-2023 23:32:42 Europe/Moscow] PHP Warning:  Undefined array key "y" in /var/www/Labs/Lab8/Task2/thumb.php on line 34
+[24-May-2023 23:32:42 Europe/Moscow] PHP Deprecated:  Implicit conversion from float 270.6293706293706 to int loses precision in /var/www/Labs/Lab8/Task2/thumb.php on line 27
+[24-May-2023 23:32:42 Europe/Moscow] PHP Deprecated:  Implicit conversion from float 270.6293706293706 to int loses precision in /var/www/Labs/Lab8/Task2/thumb.php on line 28
+[24-May-2023 23:32:46 Europe/Moscow] PHP Warning:  Undefined array key "y" in /var/www/Labs/Lab8/Task2/thumb.php on line 34
+[24-May-2023 23:32:46 Europe/Moscow] PHP Deprecated:  Implicit conversion from float 360.83916083916085 to int loses precision in /var/www/Labs/Lab8/Task2/thumb.php on line 27
+[24-May-2023 23:32:46 Europe/Moscow] PHP Deprecated:  Implicit conversion from float 360.83916083916085 to int loses precision in /var/www/Labs/Lab8/Task2/thumb.php on line 28
+[24-May-2023 23:32:52 Europe/Moscow] PHP Warning:  Undefined array key "y" in /var/www/Labs/Lab8/Task2/thumb.php on line 34
+[24-May-2023 23:32:52 Europe/Moscow] PHP Deprecated:  Implicit conversion from float 90.20979020979021 to int loses precision in /var/www/Labs/Lab8/Task2/thumb.php on line 27
+[24-May-2023 23:32:52 Europe/Moscow] PHP Deprecated:  Implicit conversion from float 90.20979020979021 to int loses precision in /var/www/Labs/Lab8/Task2/thumb.php on line 28
+[01-Jun-2023 09:11:31 Europe/Moscow] PHP Warning:  Undefined array key "path" in /var/www/Labs/Lab8/Task2/thumb.php on line 32
+[01-Jun-2023 09:11:31 Europe/Moscow] PHP Warning:  Undefined array key "y" in /var/www/Labs/Lab8/Task2/thumb.php on line 34
+[01-Jun-2023 09:11:46 Europe/Moscow] PHP Warning:  Undefined array key "y" in /var/www/Labs/Lab8/Task2/thumb.php on line 34
+[01-Jun-2023 09:11:46 Europe/Moscow] PHP Warning:  getimagesize(SignInBanner): Failed to open stream: No such file or directory in /var/www/Labs/Lab8/Task2/thumb.php on line 5
+[01-Jun-2023 09:11:53 Europe/Moscow] PHP Warning:  Undefined array key "y" in /var/www/Labs/Lab8/Task2/thumb.php on line 34
+[01-Jun-2023 09:11:53 Europe/Moscow] PHP Warning:  getimagesize(/SignInBanner): Failed to open stream: No such file or directory in /var/www/Labs/Lab8/Task2/thumb.php on line 5
+[01-Jun-2023 09:12:10 Europe/Moscow] PHP Warning:  Undefined array key "y" in /var/www/Labs/Lab8/Task2/thumb.php on line 34
+[01-Jun-2023 09:12:10 Europe/Moscow] PHP Deprecated:  Implicit conversion from float 45.10489510489511 to int loses precision in /var/www/Labs/Lab8/Task2/thumb.php on line 27
+[01-Jun-2023 09:12:10 Europe/Moscow] PHP Deprecated:  Implicit conversion from float 45.10489510489511 to int loses precision in /var/www/Labs/Lab8/Task2/thumb.php on line 28
+[01-Jun-2023 09:12:17 Europe/Moscow] PHP Warning:  Undefined array key "y" in /var/www/Labs/Lab8/Task2/thumb.php on line 34
+[01-Jun-2023 09:12:17 Europe/Moscow] PHP Deprecated:  Implicit conversion from float 90.20979020979021 to int loses precision in /var/www/Labs/Lab8/Task2/thumb.php on line 27
+[01-Jun-2023 09:12:17 Europe/Moscow] PHP Deprecated:  Implicit conversion from float 90.20979020979021 to int loses precision in /var/www/Labs/Lab8/Task2/thumb.php on line 28
+[01-Jun-2023 10:03:06 Europe/Moscow] PHP Warning:  Undefined array key "y" in /var/www/Labs/Lab8/Task2/thumb.php on line 34
+[01-Jun-2023 10:03:06 Europe/Moscow] PHP Deprecated:  Implicit conversion from float 180.41958041958043 to int loses precision in /var/www/Labs/Lab8/Task2/thumb.php on line 27
+[01-Jun-2023 10:03:06 Europe/Moscow] PHP Deprecated:  Implicit conversion from float 180.41958041958043 to int loses precision in /var/www/Labs/Lab8/Task2/thumb.php on line 28
+[01-Jun-2023 10:53:20 Europe/Moscow] PHP Warning:  Undefined array key "x" in /var/www/Labs/Lab8/Task2/thumb.php on line 33
+[01-Jun-2023 10:53:20 Europe/Moscow] PHP Warning:  Undefined array key "y" in /var/www/Labs/Lab8/Task2/thumb.php on line 34
+[01-Jun-2023 10:53:30 Europe/Moscow] PHP Warning:  Undefined array key "y" in /var/www/Labs/Lab8/Task2/thumb.php on line 34
+[01-Jun-2023 10:53:30 Europe/Moscow] PHP Deprecated:  Implicit conversion from float 90.20979020979021 to int loses precision in /var/www/Labs/Lab8/Task2/thumb.php on line 27
+[01-Jun-2023 10:53:30 Europe/Moscow] PHP Deprecated:  Implicit conversion from float 90.20979020979021 to int loses precision in /var/www/Labs/Lab8/Task2/thumb.php on line 28
+[07-Jun-2023 09:07:15 Europe/Moscow] PHP Warning:  getimagesize(/var/www/lab8/Task2/Hayasaka5.jpg): Failed to open stream: No such file or directory in /var/www/lab8/Task2/thumb.php on line 5
+[07-Jun-2023 09:07:36 Europe/Moscow] PHP Warning:  getimagesize(/var/www/lab8/Task2/Drow5.jpeg): Failed to open stream: Permission denied in /var/www/lab8/Task2/thumb.php on line 5
