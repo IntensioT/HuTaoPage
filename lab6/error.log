@@ -1,0 +1,371 @@
+[04-May-2023 09:17:13 Europe/Moscow] PHP Warning:  Undefined array key "file" in /var/www/lab6/upload.php on line 29
+[04-May-2023 09:17:13 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in /var/www/lab6/upload.php on line 29
+[04-May-2023 09:17:13 Europe/Moscow] PHP Warning:  Undefined array key "file" in /var/www/lab6/upload.php on line 30
+[04-May-2023 09:17:13 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in /var/www/lab6/upload.php on line 30
+[04-May-2023 09:17:13 Europe/Moscow] PHP Deprecated:  move_uploaded_file(): Passing null to parameter #1 ($from) of type string is deprecated in /var/www/lab6/upload.php on line 30
+[04-May-2023 10:12:40 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 36
+[04-May-2023 10:12:40 Europe/Moscow] PHP Warning:  file_get_contents(1byteCopy.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:12:40 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 36
+[04-May-2023 10:12:40 Europe/Moscow] PHP Warning:  file_get_contents(1байт.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:12:40 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 32
+[04-May-2023 10:12:40 Europe/Moscow] PHP Warning:  file_get_contents(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:12:40 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 32
+[04-May-2023 10:12:40 Europe/Moscow] PHP Warning:  file_get_contents(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:12:40 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 32
+[04-May-2023 10:12:40 Europe/Moscow] PHP Warning:  file_get_contents(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:12:40 Europe/Moscow] PHP Warning:  file_get_contents(testtt.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:13:07 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(path/to/file.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 32
+[04-May-2023 10:13:07 Europe/Moscow] PHP Warning:  file_get_contents(path/to/file.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:13:07 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(path/to/file.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 32
+[04-May-2023 10:13:07 Europe/Moscow] PHP Warning:  file_get_contents(path/to/file.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:13:07 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(path/to/file.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 32
+[04-May-2023 10:13:07 Europe/Moscow] PHP Warning:  file_get_contents(path/to/file.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:13:07 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(path/to/file.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 32
+[04-May-2023 10:13:07 Europe/Moscow] PHP Warning:  file_get_contents(path/to/file.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:13:07 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(path/to/file.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 32
+[04-May-2023 10:13:07 Europe/Moscow] PHP Warning:  file_get_contents(path/to/file.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:13:07 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(path/to/file.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 32
+[04-May-2023 10:13:07 Europe/Moscow] PHP Warning:  file_get_contents(path/to/file.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:13:08 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(path/to/file.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 32
+[04-May-2023 10:13:08 Europe/Moscow] PHP Warning:  file_get_contents(path/to/file.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:13:08 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(path/to/file.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 32
+[04-May-2023 10:13:08 Europe/Moscow] PHP Warning:  file_get_contents(path/to/file.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:13:08 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(path/to/file.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 32
+[04-May-2023 10:13:08 Europe/Moscow] PHP Warning:  file_get_contents(path/to/file.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:13:08 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(path/to/file.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 32
+[04-May-2023 10:13:08 Europe/Moscow] PHP Warning:  file_get_contents(path/to/file.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:13:08 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(path/to/file.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 32
+[04-May-2023 10:13:08 Europe/Moscow] PHP Warning:  file_get_contents(path/to/file.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:13:08 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(path/to/file.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 32
+[04-May-2023 10:13:08 Europe/Moscow] PHP Warning:  file_get_contents(path/to/file.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:13:33 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 36
+[04-May-2023 10:13:33 Europe/Moscow] PHP Warning:  file_get_contents(1byteCopy.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:13:33 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 36
+[04-May-2023 10:13:33 Europe/Moscow] PHP Warning:  file_get_contents(1байт.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:13:33 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 32
+[04-May-2023 10:13:33 Europe/Moscow] PHP Warning:  file_get_contents(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:13:33 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 32
+[04-May-2023 10:13:33 Europe/Moscow] PHP Warning:  file_get_contents(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:13:33 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 32
+[04-May-2023 10:13:33 Europe/Moscow] PHP Warning:  file_get_contents(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:13:33 Europe/Moscow] PHP Warning:  file_get_contents(testtt.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:14:46 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 37
+[04-May-2023 10:14:46 Europe/Moscow] PHP Warning:  file_get_contents(1byteCopy.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 55
+[04-May-2023 10:14:46 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 37
+[04-May-2023 10:14:46 Europe/Moscow] PHP Warning:  file_get_contents(1байт.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 55
+[04-May-2023 10:14:46 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 33
+[04-May-2023 10:14:46 Europe/Moscow] PHP Warning:  file_get_contents(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 55
+[04-May-2023 10:14:46 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 33
+[04-May-2023 10:14:46 Europe/Moscow] PHP Warning:  file_get_contents(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 55
+[04-May-2023 10:14:46 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 33
+[04-May-2023 10:14:46 Europe/Moscow] PHP Warning:  file_get_contents(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 55
+[04-May-2023 10:14:46 Europe/Moscow] PHP Warning:  file_get_contents(testtt.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 55
+[04-May-2023 10:16:32 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 35
+[04-May-2023 10:16:32 Europe/Moscow] PHP Notice:  file_get_contents(): Read of 8192 bytes failed with errno=21 Is a directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:16:32 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 35
+[04-May-2023 10:16:32 Europe/Moscow] PHP Notice:  file_get_contents(): Read of 8192 bytes failed with errno=21 Is a directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:16:32 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 35
+[04-May-2023 10:16:32 Europe/Moscow] PHP Warning:  file_get_contents(1byteCopy.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:16:32 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 35
+[04-May-2023 10:16:32 Europe/Moscow] PHP Warning:  file_get_contents(1байт.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:16:32 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 31
+[04-May-2023 10:16:32 Europe/Moscow] PHP Warning:  file_get_contents(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:16:32 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 31
+[04-May-2023 10:16:32 Europe/Moscow] PHP Warning:  file_get_contents(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:16:32 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 31
+[04-May-2023 10:16:32 Europe/Moscow] PHP Warning:  file_get_contents(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:16:32 Europe/Moscow] PHP Warning:  file_get_contents(testtt.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:16:32 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 35
+[04-May-2023 10:16:32 Europe/Moscow] PHP Notice:  file_get_contents(): Read of 8192 bytes failed with errno=21 Is a directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:16:32 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 35
+[04-May-2023 10:16:32 Europe/Moscow] PHP Notice:  file_get_contents(): Read of 8192 bytes failed with errno=21 Is a directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:16:32 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 35
+[04-May-2023 10:16:32 Europe/Moscow] PHP Warning:  file_get_contents(1byteCopy.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:16:32 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 35
+[04-May-2023 10:16:32 Europe/Moscow] PHP Warning:  file_get_contents(1байт.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:16:32 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 31
+[04-May-2023 10:16:32 Europe/Moscow] PHP Warning:  file_get_contents(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:16:32 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 31
+[04-May-2023 10:16:32 Europe/Moscow] PHP Warning:  file_get_contents(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:16:32 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 31
+[04-May-2023 10:16:32 Europe/Moscow] PHP Warning:  file_get_contents(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:16:32 Europe/Moscow] PHP Warning:  file_get_contents(testtt.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:16:51 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 35
+[04-May-2023 10:16:51 Europe/Moscow] PHP Notice:  file_get_contents(): Read of 8192 bytes failed with errno=21 Is a directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:16:51 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 35
+[04-May-2023 10:16:51 Europe/Moscow] PHP Notice:  file_get_contents(): Read of 8192 bytes failed with errno=21 Is a directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:16:51 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 35
+[04-May-2023 10:16:51 Europe/Moscow] PHP Warning:  file_get_contents(1byteCopy.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:16:51 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 35
+[04-May-2023 10:16:51 Europe/Moscow] PHP Warning:  file_get_contents(1байт.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:16:51 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 31
+[04-May-2023 10:16:51 Europe/Moscow] PHP Warning:  file_get_contents(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:16:51 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 31
+[04-May-2023 10:16:51 Europe/Moscow] PHP Warning:  file_get_contents(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:16:51 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 31
+[04-May-2023 10:16:51 Europe/Moscow] PHP Warning:  file_get_contents(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:16:51 Europe/Moscow] PHP Warning:  file_get_contents(testtt.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:22 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 35
+[04-May-2023 10:17:22 Europe/Moscow] PHP Notice:  file_get_contents(): Read of 8192 bytes failed with errno=21 Is a directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:22 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 35
+[04-May-2023 10:17:22 Europe/Moscow] PHP Notice:  file_get_contents(): Read of 8192 bytes failed with errno=21 Is a directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:22 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 35
+[04-May-2023 10:17:22 Europe/Moscow] PHP Warning:  file_get_contents(1byteCopy.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:22 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 35
+[04-May-2023 10:17:22 Europe/Moscow] PHP Warning:  file_get_contents(1байт.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:22 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 30
+[04-May-2023 10:17:22 Europe/Moscow] PHP Warning:  file_get_contents(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:22 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 30
+[04-May-2023 10:17:22 Europe/Moscow] PHP Warning:  file_get_contents(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:22 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 30
+[04-May-2023 10:17:22 Europe/Moscow] PHP Warning:  file_get_contents(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:22 Europe/Moscow] PHP Warning:  file_get_contents(testtt.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:23 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 35
+[04-May-2023 10:17:23 Europe/Moscow] PHP Notice:  file_get_contents(): Read of 8192 bytes failed with errno=21 Is a directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:23 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 35
+[04-May-2023 10:17:23 Europe/Moscow] PHP Notice:  file_get_contents(): Read of 8192 bytes failed with errno=21 Is a directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:23 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 35
+[04-May-2023 10:17:23 Europe/Moscow] PHP Warning:  file_get_contents(1byteCopy.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:23 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 35
+[04-May-2023 10:17:23 Europe/Moscow] PHP Warning:  file_get_contents(1байт.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:23 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 30
+[04-May-2023 10:17:23 Europe/Moscow] PHP Warning:  file_get_contents(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:23 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 30
+[04-May-2023 10:17:23 Europe/Moscow] PHP Warning:  file_get_contents(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:23 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 30
+[04-May-2023 10:17:23 Europe/Moscow] PHP Warning:  file_get_contents(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:23 Europe/Moscow] PHP Warning:  file_get_contents(testtt.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:24 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 35
+[04-May-2023 10:17:24 Europe/Moscow] PHP Notice:  file_get_contents(): Read of 8192 bytes failed with errno=21 Is a directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:24 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 35
+[04-May-2023 10:17:24 Europe/Moscow] PHP Notice:  file_get_contents(): Read of 8192 bytes failed with errno=21 Is a directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:24 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 35
+[04-May-2023 10:17:24 Europe/Moscow] PHP Warning:  file_get_contents(1byteCopy.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:24 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 35
+[04-May-2023 10:17:24 Europe/Moscow] PHP Warning:  file_get_contents(1байт.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:24 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 30
+[04-May-2023 10:17:24 Europe/Moscow] PHP Warning:  file_get_contents(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:24 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 30
+[04-May-2023 10:17:24 Europe/Moscow] PHP Warning:  file_get_contents(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:24 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 30
+[04-May-2023 10:17:24 Europe/Moscow] PHP Warning:  file_get_contents(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:24 Europe/Moscow] PHP Warning:  file_get_contents(testtt.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:25 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 35
+[04-May-2023 10:17:25 Europe/Moscow] PHP Notice:  file_get_contents(): Read of 8192 bytes failed with errno=21 Is a directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:25 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 35
+[04-May-2023 10:17:25 Europe/Moscow] PHP Notice:  file_get_contents(): Read of 8192 bytes failed with errno=21 Is a directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:25 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 35
+[04-May-2023 10:17:25 Europe/Moscow] PHP Warning:  file_get_contents(1byteCopy.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:25 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 35
+[04-May-2023 10:17:25 Europe/Moscow] PHP Warning:  file_get_contents(1байт.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:25 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 30
+[04-May-2023 10:17:25 Europe/Moscow] PHP Warning:  file_get_contents(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:25 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 30
+[04-May-2023 10:17:25 Europe/Moscow] PHP Warning:  file_get_contents(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:25 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 30
+[04-May-2023 10:17:25 Europe/Moscow] PHP Warning:  file_get_contents(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:25 Europe/Moscow] PHP Warning:  file_get_contents(testtt.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:26 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 35
+[04-May-2023 10:17:26 Europe/Moscow] PHP Notice:  file_get_contents(): Read of 8192 bytes failed with errno=21 Is a directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:26 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 35
+[04-May-2023 10:17:26 Europe/Moscow] PHP Notice:  file_get_contents(): Read of 8192 bytes failed with errno=21 Is a directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:26 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 35
+[04-May-2023 10:17:26 Europe/Moscow] PHP Warning:  file_get_contents(1byteCopy.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:26 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 35
+[04-May-2023 10:17:26 Europe/Moscow] PHP Warning:  file_get_contents(1байт.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:26 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 30
+[04-May-2023 10:17:26 Europe/Moscow] PHP Warning:  file_get_contents(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:26 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 30
+[04-May-2023 10:17:26 Europe/Moscow] PHP Warning:  file_get_contents(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:26 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 30
+[04-May-2023 10:17:26 Europe/Moscow] PHP Warning:  file_get_contents(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:26 Europe/Moscow] PHP Warning:  file_get_contents(testtt.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 53
+[04-May-2023 10:17:56 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 36
+[04-May-2023 10:17:56 Europe/Moscow] PHP Notice:  file_get_contents(): Read of 8192 bytes failed with errno=21 Is a directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:17:56 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 36
+[04-May-2023 10:17:56 Europe/Moscow] PHP Notice:  file_get_contents(): Read of 8192 bytes failed with errno=21 Is a directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:17:56 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 36
+[04-May-2023 10:17:56 Europe/Moscow] PHP Warning:  file_get_contents(1byteCopy.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:17:56 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 36
+[04-May-2023 10:17:56 Europe/Moscow] PHP Warning:  file_get_contents(1байт.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:17:56 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 31
+[04-May-2023 10:17:56 Europe/Moscow] PHP Warning:  file_get_contents(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:17:56 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 31
+[04-May-2023 10:17:56 Europe/Moscow] PHP Warning:  file_get_contents(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:17:56 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 31
+[04-May-2023 10:17:56 Europe/Moscow] PHP Warning:  file_get_contents(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:17:56 Europe/Moscow] PHP Warning:  file_get_contents(testtt.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:18:49 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 37
+[04-May-2023 10:18:49 Europe/Moscow] PHP Notice:  file_get_contents(): Read of 8192 bytes failed with errno=21 Is a directory in /var/www/lab6/list_files.php on line 55
+[04-May-2023 10:18:49 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 37
+[04-May-2023 10:18:49 Europe/Moscow] PHP Notice:  file_get_contents(): Read of 8192 bytes failed with errno=21 Is a directory in /var/www/lab6/list_files.php on line 55
+[04-May-2023 10:18:49 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 37
+[04-May-2023 10:18:49 Europe/Moscow] PHP Warning:  file_get_contents(1byteCopy.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 55
+[04-May-2023 10:18:49 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 37
+[04-May-2023 10:18:49 Europe/Moscow] PHP Warning:  file_get_contents(1байт.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 55
+[04-May-2023 10:18:49 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 32
+[04-May-2023 10:18:49 Europe/Moscow] PHP Warning:  file_get_contents(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 55
+[04-May-2023 10:18:49 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 32
+[04-May-2023 10:18:49 Europe/Moscow] PHP Warning:  file_get_contents(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 55
+[04-May-2023 10:18:49 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 32
+[04-May-2023 10:18:49 Europe/Moscow] PHP Warning:  file_get_contents(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 55
+[04-May-2023 10:18:49 Europe/Moscow] PHP Warning:  file_get_contents(testtt.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 55
+[04-May-2023 10:19:20 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 36
+[04-May-2023 10:19:20 Europe/Moscow] PHP Notice:  file_get_contents(): Read of 8192 bytes failed with errno=21 Is a directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:19:20 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 36
+[04-May-2023 10:19:20 Europe/Moscow] PHP Notice:  file_get_contents(): Read of 8192 bytes failed with errno=21 Is a directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:19:20 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 36
+[04-May-2023 10:19:20 Europe/Moscow] PHP Warning:  file_get_contents(1byteCopy.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:19:20 Europe/Moscow] PHP Warning:  Undefined variable $img in /var/www/lab6/list_files.php on line 36
+[04-May-2023 10:19:20 Europe/Moscow] PHP Warning:  file_get_contents(1байт.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:19:20 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 31
+[04-May-2023 10:19:20 Europe/Moscow] PHP Warning:  file_get_contents(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:19:20 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 31
+[04-May-2023 10:19:20 Europe/Moscow] PHP Warning:  file_get_contents(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:19:20 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 31
+[04-May-2023 10:19:20 Europe/Moscow] PHP Warning:  file_get_contents(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:19:20 Europe/Moscow] PHP Warning:  file_get_contents(testtt.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 54
+[04-May-2023 10:21:34 Europe/Moscow] PHP Warning:  file_get_contents(path/to/file.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 45
+[04-May-2023 10:21:34 Europe/Moscow] PHP Warning:  file_get_contents(path/to/file.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 45
+[04-May-2023 10:21:34 Europe/Moscow] PHP Warning:  file_get_contents(path/to/file.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 45
+[04-May-2023 10:21:34 Europe/Moscow] PHP Warning:  file_get_contents(path/to/file.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 45
+[04-May-2023 10:21:34 Europe/Moscow] PHP Warning:  file_get_contents(path/to/file.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 45
+[04-May-2023 10:21:34 Europe/Moscow] PHP Warning:  file_get_contents(path/to/file.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 45
+[04-May-2023 10:21:34 Europe/Moscow] PHP Warning:  file_get_contents(path/to/file.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 45
+[04-May-2023 10:21:34 Europe/Moscow] PHP Warning:  file_get_contents(path/to/file.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 45
+[04-May-2023 10:22:00 Europe/Moscow] PHP Notice:  exif_imagetype(): Read of 8192 bytes failed with errno=21 Is a directory in /var/www/lab6/list_files.php on line 21
+[04-May-2023 10:22:00 Europe/Moscow] PHP Notice:  exif_imagetype(): Error reading from .! in /var/www/lab6/list_files.php on line 21
+[04-May-2023 10:22:00 Europe/Moscow] PHP Notice:  file_get_contents(): Read of 8192 bytes failed with errno=21 Is a directory in /var/www/lab6/list_files.php on line 45
+[04-May-2023 10:22:00 Europe/Moscow] PHP Notice:  exif_imagetype(): Read of 8192 bytes failed with errno=21 Is a directory in /var/www/lab6/list_files.php on line 21
+[04-May-2023 10:22:00 Europe/Moscow] PHP Notice:  exif_imagetype(): Error reading from ..! in /var/www/lab6/list_files.php on line 21
+[04-May-2023 10:22:00 Europe/Moscow] PHP Notice:  file_get_contents(): Read of 8192 bytes failed with errno=21 Is a directory in /var/www/lab6/list_files.php on line 45
+[04-May-2023 10:22:00 Europe/Moscow] PHP Warning:  file_get_contents(1byteCopy.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 45
+[04-May-2023 10:22:00 Europe/Moscow] PHP Warning:  file_get_contents(1байт.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 45
+[04-May-2023 10:22:00 Europe/Moscow] PHP Warning:  file_get_contents(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 45
+[04-May-2023 10:22:00 Europe/Moscow] PHP Warning:  file_get_contents(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 45
+[04-May-2023 10:22:00 Europe/Moscow] PHP Warning:  file_get_contents(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 45
+[04-May-2023 10:22:00 Europe/Moscow] PHP Warning:  file_get_contents(testtt.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 45
+[04-May-2023 10:22:50 Europe/Moscow] PHP Warning:  file_get_contents(1byteCopy.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 42
+[04-May-2023 10:22:50 Europe/Moscow] PHP Warning:  file_get_contents(1байт.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 42
+[04-May-2023 10:22:50 Europe/Moscow] PHP Warning:  file_get_contents(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 42
+[04-May-2023 10:22:50 Europe/Moscow] PHP Warning:  file_get_contents(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 42
+[04-May-2023 10:22:50 Europe/Moscow] PHP Warning:  file_get_contents(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 42
+[04-May-2023 10:22:50 Europe/Moscow] PHP Warning:  file_get_contents(testtt.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 42
+[04-May-2023 10:23:20 Europe/Moscow] PHP Warning:  file_get_contents(1byteCopy.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 42
+[04-May-2023 10:23:20 Europe/Moscow] PHP Warning:  file_get_contents(1байт.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 42
+[04-May-2023 10:23:20 Europe/Moscow] PHP Warning:  file_get_contents(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 42
+[04-May-2023 10:23:20 Europe/Moscow] PHP Warning:  file_get_contents(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 42
+[04-May-2023 10:23:20 Europe/Moscow] PHP Warning:  file_get_contents(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 42
+[04-May-2023 10:23:20 Europe/Moscow] PHP Warning:  file_get_contents(testtt.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 42
+[04-May-2023 10:23:32 Europe/Moscow] PHP Warning:  file_get_contents(1byteCopy.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 42
+[04-May-2023 10:23:32 Europe/Moscow] PHP Warning:  file_get_contents(1байт.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 42
+[04-May-2023 10:23:32 Europe/Moscow] PHP Warning:  file_get_contents(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 42
+[04-May-2023 10:23:32 Europe/Moscow] PHP Warning:  file_get_contents(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 42
+[04-May-2023 10:23:32 Europe/Moscow] PHP Warning:  file_get_contents(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 42
+[04-May-2023 10:23:32 Europe/Moscow] PHP Warning:  file_get_contents(testtt.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 42
+[04-May-2023 10:23:49 Europe/Moscow] PHP Warning:  file_get_contents(1byteCopy.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 42
+[04-May-2023 10:23:49 Europe/Moscow] PHP Warning:  file_get_contents(1байт.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 42
+[04-May-2023 10:23:49 Europe/Moscow] PHP Warning:  file_get_contents(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 42
+[04-May-2023 10:23:49 Europe/Moscow] PHP Warning:  file_get_contents(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 42
+[04-May-2023 10:23:49 Europe/Moscow] PHP Warning:  file_get_contents(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 42
+[04-May-2023 10:23:49 Europe/Moscow] PHP Warning:  file_get_contents(testtt.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 42
+[04-May-2023 10:24:05 Europe/Moscow] PHP Warning:  file_get_contents(1byteCopy.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 42
+[04-May-2023 10:24:05 Europe/Moscow] PHP Warning:  file_get_contents(1байт.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 42
+[04-May-2023 10:24:05 Europe/Moscow] PHP Warning:  file_get_contents(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 42
+[04-May-2023 10:24:05 Europe/Moscow] PHP Warning:  file_get_contents(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 42
+[04-May-2023 10:24:05 Europe/Moscow] PHP Warning:  file_get_contents(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 42
+[04-May-2023 10:24:05 Europe/Moscow] PHP Warning:  file_get_contents(testtt.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 42
+[04-May-2023 10:27:38 Europe/Moscow] PHP Warning:  file_get_contents(1byteCopy.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 43
+[04-May-2023 10:27:38 Europe/Moscow] PHP Warning:  file_get_contents(1байт.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 43
+[04-May-2023 10:27:38 Europe/Moscow] PHP Warning:  file_get_contents(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 43
+[04-May-2023 10:27:38 Europe/Moscow] PHP Warning:  file_get_contents(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 43
+[04-May-2023 10:27:38 Europe/Moscow] PHP Warning:  file_get_contents(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 43
+[04-May-2023 10:27:38 Europe/Moscow] PHP Warning:  file_get_contents(testtt.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 43
+[04-May-2023 10:27:40 Europe/Moscow] PHP Warning:  file_get_contents(1byteCopy.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 43
+[04-May-2023 10:27:40 Europe/Moscow] PHP Warning:  file_get_contents(1байт.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 43
+[04-May-2023 10:27:40 Europe/Moscow] PHP Warning:  file_get_contents(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 43
+[04-May-2023 10:27:40 Europe/Moscow] PHP Warning:  file_get_contents(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 43
+[04-May-2023 10:27:40 Europe/Moscow] PHP Warning:  file_get_contents(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 43
+[04-May-2023 10:27:40 Europe/Moscow] PHP Warning:  file_get_contents(testtt.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 43
+[04-May-2023 10:27:41 Europe/Moscow] PHP Warning:  file_get_contents(1byteCopy.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 43
+[04-May-2023 10:27:41 Europe/Moscow] PHP Warning:  file_get_contents(1байт.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 43
+[04-May-2023 10:27:41 Europe/Moscow] PHP Warning:  file_get_contents(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 43
+[04-May-2023 10:27:41 Europe/Moscow] PHP Warning:  file_get_contents(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 43
+[04-May-2023 10:27:41 Europe/Moscow] PHP Warning:  file_get_contents(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 43
+[04-May-2023 10:27:41 Europe/Moscow] PHP Warning:  file_get_contents(testtt.txt): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 43
+[04-May-2023 10:27:55 Europe/Moscow] PHP Warning:  file_get_contents(files/$file): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 43
+[04-May-2023 10:27:55 Europe/Moscow] PHP Warning:  file_get_contents(files/$file): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 43
+[04-May-2023 10:27:55 Europe/Moscow] PHP Warning:  file_get_contents(files/$file): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 43
+[04-May-2023 10:27:55 Europe/Moscow] PHP Warning:  file_get_contents(files/$file): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 43
+[04-May-2023 10:27:55 Europe/Moscow] PHP Warning:  file_get_contents(files/$file): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 43
+[04-May-2023 10:27:55 Europe/Moscow] PHP Warning:  file_get_contents(files/$file): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 43
+[04-May-2023 10:28:28 Europe/Moscow] PHP Warning:  file_get_contents(./files/$file): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 43
+[04-May-2023 10:28:28 Europe/Moscow] PHP Warning:  file_get_contents(./files/$file): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 43
+[04-May-2023 10:28:28 Europe/Moscow] PHP Warning:  file_get_contents(./files/$file): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 43
+[04-May-2023 10:28:28 Europe/Moscow] PHP Warning:  file_get_contents(./files/$file): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 43
+[04-May-2023 10:28:28 Europe/Moscow] PHP Warning:  file_get_contents(./files/$file): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 43
+[04-May-2023 10:28:28 Europe/Moscow] PHP Warning:  file_get_contents(./files/$file): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 43
+[04-May-2023 10:29:08 Europe/Moscow] PHP Notice:  exif_imagetype(): Error reading from ./files/1byteCopy.txt! in /var/www/lab6/list_files.php on line 19
+[04-May-2023 10:29:08 Europe/Moscow] PHP Notice:  exif_imagetype(): Error reading from ./files/1байт.txt! in /var/www/lab6/list_files.php on line 19
+[04-May-2023 10:29:08 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(Arthur Leivin.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 21
+[04-May-2023 10:29:08 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(Drow1.jpeg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 21
+[04-May-2023 10:29:08 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(b3c1edf2d16a6a05196c3d45b9d76674.jpg): Failed to open stream: No such file or directory in /var/www/lab6/list_files.php on line 21
+[04-May-2023 10:29:45 Europe/Moscow] PHP Notice:  exif_imagetype(): Error reading from ./files/1byteCopy.txt! in /var/www/lab6/list_files.php on line 19
+[04-May-2023 10:29:45 Europe/Moscow] PHP Notice:  exif_imagetype(): Error reading from ./files/1байт.txt! in /var/www/lab6/list_files.php on line 19
+[04-May-2023 10:29:45 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/lab6/list_files.php:38) in /var/www/lab6/list_files.php on line 37
+[04-May-2023 10:29:45 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/lab6/list_files.php:38) in /var/www/lab6/list_files.php on line 37
+[04-May-2023 10:29:49 Europe/Moscow] PHP Notice:  exif_imagetype(): Error reading from ./files/1byteCopy.txt! in /var/www/lab6/list_files.php on line 19
+[04-May-2023 10:29:49 Europe/Moscow] PHP Notice:  exif_imagetype(): Error reading from ./files/1байт.txt! in /var/www/lab6/list_files.php on line 19
+[04-May-2023 10:29:49 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/lab6/list_files.php:38) in /var/www/lab6/list_files.php on line 37
+[04-May-2023 10:29:49 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/lab6/list_files.php:38) in /var/www/lab6/list_files.php on line 37
+[04-May-2023 10:29:51 Europe/Moscow] PHP Notice:  exif_imagetype(): Error reading from ./files/1byteCopy.txt! in /var/www/lab6/list_files.php on line 19
+[04-May-2023 10:29:51 Europe/Moscow] PHP Notice:  exif_imagetype(): Error reading from ./files/1байт.txt! in /var/www/lab6/list_files.php on line 19
+[04-May-2023 10:29:51 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/lab6/list_files.php:38) in /var/www/lab6/list_files.php on line 37
+[04-May-2023 10:29:51 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/lab6/list_files.php:38) in /var/www/lab6/list_files.php on line 37
+[04-May-2023 10:29:51 Europe/Moscow] PHP Notice:  exif_imagetype(): Error reading from ./files/1byteCopy.txt! in /var/www/lab6/list_files.php on line 19
+[04-May-2023 10:29:51 Europe/Moscow] PHP Notice:  exif_imagetype(): Error reading from ./files/1байт.txt! in /var/www/lab6/list_files.php on line 19
+[04-May-2023 10:29:52 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/lab6/list_files.php:38) in /var/www/lab6/list_files.php on line 37
+[04-May-2023 10:29:52 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/lab6/list_files.php:38) in /var/www/lab6/list_files.php on line 37
+[04-May-2023 10:29:53 Europe/Moscow] PHP Notice:  exif_imagetype(): Error reading from ./files/1byteCopy.txt! in /var/www/lab6/list_files.php on line 19
+[04-May-2023 10:29:53 Europe/Moscow] PHP Notice:  exif_imagetype(): Error reading from ./files/1байт.txt! in /var/www/lab6/list_files.php on line 19
+[04-May-2023 10:29:53 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/lab6/list_files.php:38) in /var/www/lab6/list_files.php on line 37
+[04-May-2023 10:29:53 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/lab6/list_files.php:38) in /var/www/lab6/list_files.php on line 37
+[04-May-2023 10:29:54 Europe/Moscow] PHP Notice:  exif_imagetype(): Error reading from ./files/1byteCopy.txt! in /var/www/lab6/list_files.php on line 19
+[04-May-2023 10:29:54 Europe/Moscow] PHP Notice:  exif_imagetype(): Error reading from ./files/1байт.txt! in /var/www/lab6/list_files.php on line 19
+[04-May-2023 10:29:54 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/lab6/list_files.php:38) in /var/www/lab6/list_files.php on line 37
+[04-May-2023 10:29:54 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/lab6/list_files.php:38) in /var/www/lab6/list_files.php on line 37
+[04-May-2023 10:29:56 Europe/Moscow] PHP Notice:  exif_imagetype(): Error reading from ./files/1byteCopy.txt! in /var/www/lab6/list_files.php on line 19
+[04-May-2023 10:29:56 Europe/Moscow] PHP Notice:  exif_imagetype(): Error reading from ./files/1байт.txt! in /var/www/lab6/list_files.php on line 19
+[04-May-2023 10:29:56 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/lab6/list_files.php:38) in /var/www/lab6/list_files.php on line 37
+[04-May-2023 10:29:56 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/lab6/list_files.php:38) in /var/www/lab6/list_files.php on line 37
+[04-May-2023 10:29:56 Europe/Moscow] PHP Notice:  exif_imagetype(): Error reading from ./files/1byteCopy.txt! in /var/www/lab6/list_files.php on line 19
+[04-May-2023 10:29:56 Europe/Moscow] PHP Notice:  exif_imagetype(): Error reading from ./files/1байт.txt! in /var/www/lab6/list_files.php on line 19
+[04-May-2023 10:29:57 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/lab6/list_files.php:38) in /var/www/lab6/list_files.php on line 37
+[04-May-2023 10:29:57 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/lab6/list_files.php:38) in /var/www/lab6/list_files.php on line 37
+[04-May-2023 10:29:59 Europe/Moscow] PHP Notice:  exif_imagetype(): Error reading from ./files/1byteCopy.txt! in /var/www/lab6/list_files.php on line 19
+[04-May-2023 10:29:59 Europe/Moscow] PHP Notice:  exif_imagetype(): Error reading from ./files/1байт.txt! in /var/www/lab6/list_files.php on line 19
+[04-May-2023 10:29:59 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/lab6/list_files.php:38) in /var/www/lab6/list_files.php on line 37
+[04-May-2023 10:29:59 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/lab6/list_files.php:38) in /var/www/lab6/list_files.php on line 37
+[04-May-2023 10:31:32 Europe/Moscow] PHP Notice:  exif_imagetype(): Error reading from ./files/1byteCopy.txt! in /var/www/lab6/list_files.php on line 19
+[04-May-2023 10:31:32 Europe/Moscow] PHP Notice:  exif_imagetype(): Error reading from ./files/1байт.txt! in /var/www/lab6/list_files.php on line 19
+[04-May-2023 10:34:14 Europe/Moscow] PHP Notice:  Only variables should be passed by reference in /var/www/lab6/list_files.php on line 17
+[04-May-2023 10:34:14 Europe/Moscow] PHP Notice:  Only variables should be passed by reference in /var/www/lab6/list_files.php on line 17
+[04-May-2023 10:34:14 Europe/Moscow] PHP Notice:  Only variables should be passed by reference in /var/www/lab6/list_files.php on line 17
+[04-May-2023 10:34:14 Europe/Moscow] PHP Notice:  Only variables should be passed by reference in /var/www/lab6/list_files.php on line 17
+[04-May-2023 10:34:14 Europe/Moscow] PHP Notice:  Only variables should be passed by reference in /var/www/lab6/list_files.php on line 17
+[04-May-2023 10:34:14 Europe/Moscow] PHP Notice:  Only variables should be passed by reference in /var/www/lab6/list_files.php on line 17
+[04-May-2023 10:34:38 Europe/Moscow] PHP Notice:  Only variables should be passed by reference in /var/www/lab6/list_files.php on line 17
+[04-May-2023 10:34:38 Europe/Moscow] PHP Notice:  Only variables should be passed by reference in /var/www/lab6/list_files.php on line 17
+[04-May-2023 10:34:38 Europe/Moscow] PHP Notice:  Only variables should be passed by reference in /var/www/lab6/list_files.php on line 17
+[04-May-2023 10:34:38 Europe/Moscow] PHP Notice:  Only variables should be passed by reference in /var/www/lab6/list_files.php on line 17
+[04-May-2023 10:34:38 Europe/Moscow] PHP Notice:  Only variables should be passed by reference in /var/www/lab6/list_files.php on line 17
+[04-May-2023 11:46:56 Europe/Moscow] PHP Warning:  Undefined array key "file" in /var/www/lab6/upload.php on line 29
+[04-May-2023 11:46:56 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in /var/www/lab6/upload.php on line 29
+[04-May-2023 11:46:56 Europe/Moscow] PHP Warning:  Undefined array key "file" in /var/www/lab6/upload.php on line 30
+[04-May-2023 11:46:56 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in /var/www/lab6/upload.php on line 30
+[04-May-2023 11:46:56 Europe/Moscow] PHP Deprecated:  move_uploaded_file(): Passing null to parameter #1 ($from) of type string is deprecated in /var/www/lab6/upload.php on line 30
+[04-May-2023 12:45:50 Europe/Moscow] PHP Warning:  Undefined array key "file" in /var/www/lab6/upload.php on line 29
+[04-May-2023 12:45:50 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in /var/www/lab6/upload.php on line 29
+[04-May-2023 12:45:50 Europe/Moscow] PHP Warning:  Undefined array key "file" in /var/www/lab6/upload.php on line 30
+[04-May-2023 12:45:50 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in /var/www/lab6/upload.php on line 30
+[04-May-2023 12:45:50 Europe/Moscow] PHP Deprecated:  move_uploaded_file(): Passing null to parameter #1 ($from) of type string is deprecated in /var/www/lab6/upload.php on line 30
