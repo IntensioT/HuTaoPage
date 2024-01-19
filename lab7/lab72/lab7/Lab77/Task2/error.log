@@ -1,0 +1,21 @@
+[14-May-2023 23:33:14 Europe/Moscow] PHP Warning:  copy(https://i.ytimg.com/vi/ID/hqdefault.jpg): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /var/www/Labs/Lab7/Task2/task2.php on line 86
+[14-May-2023 23:33:14 Europe/Moscow] PHP Warning:  copy(https://i.ytimg.com/vi/ID/hqdefault.jpg): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /var/www/Labs/Lab7/Task2/task2.php on line 86
+[14-May-2023 23:34:08 Europe/Moscow] PHP Warning:  copy(https://i.ytimg.com/vi/ID/hqdefault.jpg): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /var/www/Labs/Lab7/Task2/task2.php on line 85
+[14-May-2023 23:34:08 Europe/Moscow] PHP Warning:  copy(https://i.ytimg.com/vi/ID/hqdefault.jpg): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /var/www/Labs/Lab7/Task2/task2.php on line 85
+[14-May-2023 23:34:19 Europe/Moscow] PHP Warning:  copy(https://i.ytimg.com/vi/ID/hqdefault.jpg): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /var/www/Labs/Lab7/Task2/task2.php on line 85
+[14-May-2023 23:34:19 Europe/Moscow] PHP Warning:  copy(https://i.ytimg.com/vi/ID/hqdefault.jpg): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /var/www/Labs/Lab7/Task2/task2.php on line 85
+[14-May-2023 23:34:53 Europe/Moscow] PHP Warning:  file_get_contents(https://wallpapercave.com/): Failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /var/www/Labs/Lab7/Task2/task2.php on line 55
+[14-May-2023 23:34:57 Europe/Moscow] PHP Warning:  file_get_contents(https://wallpapercave.com): Failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /var/www/Labs/Lab7/Task2/task2.php on line 55
+[14-May-2023 23:35:54 Europe/Moscow] PHP Warning:  file_get_contents(https://wallpapercave.com/categories/anime): Failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /var/www/Labs/Lab7/Task2/task2.php on line 55
+[14-May-2023 23:36:07 Europe/Moscow] PHP Warning:  file_get_contents(https://wallpapercave.com/aggretsuko-wallpapers): Failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /var/www/Labs/Lab7/Task2/task2.php on line 55
+[23-May-2023 23:18:51 Europe/Moscow] PHP Warning:  copy(//js.pngtree.com/images/home/error-five.png): Failed to open stream: No such file or directory in /var/www/Labs/Lab7/Task2/task2.php on line 85

@@ -1,0 +1,13 @@
+html{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.balls{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.balls div{
+    width: 50em;
+}

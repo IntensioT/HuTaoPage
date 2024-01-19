@@ -1,0 +1,5 @@
+[22-May-2023 17:35:33 Europe/Moscow] PHP Warning:  Undefined variable $headers in /var/www/Labs/Lab7/mail.php on line 8
+[22-May-2023 17:35:59 Europe/Moscow] PHP Warning:  Undefined variable $headers in /var/www/Labs/Lab7/mail.php on line 8
+[22-May-2023 17:36:08 Europe/Moscow] PHP Warning:  Undefined variable $headers in /var/www/Labs/Lab7/mail.php on line 8
+[22-May-2023 17:36:08 Europe/Moscow] PHP Warning:  Array to string conversion in /var/www/Labs/Lab7/mail.php on line 19
+[22-May-2023 17:36:39 Europe/Moscow] PHP Warning:  Undefined variable $headers in /var/www/Labs/Lab7/mail.php on line 8

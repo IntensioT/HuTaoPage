@@ -1,0 +1,1 @@
+[18-May-2023 10:08:51 Europe/Moscow] PHP Warning:  mail(/var/log/phpmail.log): Failed to open stream: Permission denied in /var/www/lab7/method/mail.php on line 29

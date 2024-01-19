@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Форма обратной связи</title>
+</head>
+<body>
+	<form method="POST" action="send.php">
+		<label>Имя:</label><br>
+		<input type="text" name="name" required><br>
+		<label>Телефон:</label><br>
+		<input type="tel" name="phone" required><br>
+		<label>Email:</label><br>
+		<input type="email" name="email" required><br>
+		<label>Тема:</label><br>
+		<input type="text" name="subject" required><br>
+		<label>Текст сообщения:</label><br>
+		<textarea name="message" required></textarea><br>
+		<input type="submit" value="Отправить">
+	</form>
+</body>
+</html>

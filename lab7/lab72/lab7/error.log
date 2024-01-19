@@ -1,0 +1,9 @@
+[07-Jun-2023 09:53:44 Europe/Moscow] PHP Warning:  file_get_contents(https://api.weatherbit.io/v2.0/current?city=Минск&amp;key=d673ba719ab5419f874a0edb4d8e81f9&amp;include=minutely): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad request
+ in /var/www/lab7/lab72/lab7/task3.php on line 10
+[07-Jun-2023 09:53:44 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in /var/www/lab7/lab72/lab7/task3.php on line 12
+[07-Jun-2023 09:53:44 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in /var/www/lab7/lab72/lab7/task3.php on line 12
+[07-Jun-2023 09:53:44 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in /var/www/lab7/lab72/lab7/task3.php on line 12
+[07-Jun-2023 09:53:45 Europe/Moscow] PHP Warning:  file_get_contents(https://api.weatherapi.com/v1/current.json?key=9b99114183494ba8b05155145222604&amp;q=Минск): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /var/www/lab7/lab72/lab7/task3.php on line 14
+[07-Jun-2023 09:53:45 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in /var/www/lab7/lab72/lab7/task3.php on line 16
+[07-Jun-2023 09:53:45 Europe/Moscow] PHP Warning:  Trying to access array offset on value of type null in /var/www/lab7/lab72/lab7/task3.php on line 16
